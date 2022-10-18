@@ -19,8 +19,9 @@
 <a href="https://github.com/heshan-s-edvin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshan-s-edvin&theme=dark&hide_langs_below=1&layout=compact" width="360px"/></a>
 </p>
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heshan-s-edvin&theme=dark)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heshan-s-edvin&langs_count=8&theme=dark)](https://github.com/heshan-s-edvin/github-readme-stats)
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=heshan-s-edvin)
+
 </p>
