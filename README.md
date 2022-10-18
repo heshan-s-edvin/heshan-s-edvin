@@ -12,13 +12,13 @@
 
 ### KNOW MORE ABOUT ME>>>>
 
-![Profile views](https://gpvc.arturio.dev/Error-4-You)  
+![Profile views](https://gpvc.arturio.dev/heshan-s-edvin)  
 
 <p align="center">
-<a href="https://github.com/Error-4-You"><img title="Error-4-You" src="https://github-readme-stats.vercel.app/api?username=Error-4-You&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-<a href="https://github.com/Error-4-You"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error-4-You&theme=dark&hide_langs_below=1&layout=compact" width="360px"/></a>
+<a href="https://github.com/heshan-s-edvin"><img title="heshan-s-edvin" src="https://github-readme-stats.vercel.app/api?username=heshan-s-edvin&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<a href="https://github.com/heshan-s-edvin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshan-s-edvin&theme=dark&hide_langs_below=1&layout=compact" width="360px"/></a>
 </p>
-<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Error-4-You&theme=dark)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Error-4-You&langs_count=8&theme=dark)](https://github.com/Error-4-You/github-readme-stats)
+<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heshan-s-edvin&theme=dark)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heshan-s-edvin&langs_count=8&theme=dark)](https://github.com/heshan-s-edvin/github-readme-stats)
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Error-4-You)</p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=heshan-s-edvin)</p>
