@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate frontend developer from Sri Lanka </h3>
 
- -  Im currently working on **Software Development company**
+ -  I�m currently working on **Software Development company**
 
  -  How to reach me **heshansankalpaedvin@gmail.com**
 
