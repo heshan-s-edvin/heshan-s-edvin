@@ -25,3 +25,8 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=heshan-s-edvin)
 
 </p>
+
+<p align="center">
+<a href="https://t.me/h4ck199"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://chat.whatsapp.com/FkcQ98SucwgK1TbTfGWzsR"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a></p>
+
