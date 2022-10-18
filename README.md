@@ -2,4 +2,4 @@
 
 ### <h2>I'm From Sri Lanka 🇱🇰  <img src='https://github.com/heshan-s-edvin/heshan-s-edvin/blob/main/image/Earth.gif' width=20px></h2>
 
-### <h3> <img src="https://github.com/heshan-s-edvin/heshan-s-edvin/blob/main/image/Developer.gif' width=20px></h3>
+### <h3> <img src='https://github.com/heshan-s-edvin/heshan-s-edvin/blob/main/image/Developer.gif' width=20px></h3>
