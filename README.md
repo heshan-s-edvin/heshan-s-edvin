@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshan-s-edvin&label=Profile%20views&color=0e75b6&style=flat" alt="heshan-s-edvin" /> </p>
 
-<p align="center"><img src="110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
+<p align="center"><img src="image/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 </p>
 
 ### KNOW MORE ABOUT ME>>>>
