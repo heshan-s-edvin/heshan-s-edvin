@@ -1,4 +1,4 @@
-### <h1>Hey, I'm Heshan S Edvin <img src='https://github.com/heshan-s-edvin/heshan-s-edvin/blob/main/image/Hi.gif' width=20px><img src='https://github.com/heshan-s-edvin/heshan-s-edvin/blob/main/image/Hi.gif' width=20px><img src='https://github.com/heshan-s-edvin/heshan-s-edvin/blob/main/image/Hi.gif' width=20px>
+8### <h1>Hey, I'm Heshan S Edvin <img src='https://github.com/heshan-s-edvin/heshan-s-edvin/blob/main/image/Hi.gif' width=20px><img src='https://github.com/heshan-s-edvin/heshan-s-edvin/blob/main/image/Hi.gif' width=20px><img src='https://github.com/heshan-s-edvin/heshan-s-edvin/blob/main/image/Hi.gif' width=20px>
 
 ### <h2>I'm From Sri Lanka 🇱🇰  <img src='https://github.com/heshan-s-edvin/heshan-s-edvin/blob/main/image/Earth.gif' width=20px></h2>
 
@@ -28,11 +28,13 @@
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=heshan-s-edvin)
 
 </p>
 
 <p align="center">
+
 <a href="https://t.me/h4ck199"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <a href="https://chat.whatsapp.com/FkcQ98SucwgK1TbTfGWzsR"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a></p>
 
